@@ -41,13 +41,13 @@ Run unit tests
 $ python test.py
 ```
 
+Update the *version* and *download_url* in *setup.py*
+
 Build the module
 
 ```bash
 $ python setup.py sdist bdist_wheel
 ```
-
-Update the *version* and *download_url* in *setup.py*
 
 Release (Github)
 
