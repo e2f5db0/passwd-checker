@@ -1,5 +1,5 @@
 
-# passwd_checker
+# passwd-checker
 
 Check passwords against Daniel Miessler's SecLists & other custom requirements
 
