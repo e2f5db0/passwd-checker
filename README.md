@@ -2,6 +2,7 @@
 # passwd-checker 
 
 [![Build Status](https://travis-ci.org/universami/passwd-checker.svg?branch=master)](https://travis-ci.org/universami/passwd-checker)
+[![codecov](https://codecov.io/gh/universami/passwd-checker/branch/master/graph/badge.svg)](https://codecov.io/gh/universami/passwd-checker)
 
 Check passwords against Daniel Miessler's SecLists & other custom requirements
 
