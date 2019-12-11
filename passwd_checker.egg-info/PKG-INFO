@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: passwd-checker
+Version: 0.0.1
+Summary: Check a password against SecLists & other various custom requirements
+Home-page: https://github.com/universami/passwd-checker
+Author: Universami
+Author-email: un1v3rs4m1@protonmail.com
+License: UNKNOWN
+Download-URL: https://github.com/universami/passwd-checker/archive/0.0.1.tar.gz
+Description: UNKNOWN
+Keywords: password,checker,seclist
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7

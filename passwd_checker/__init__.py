@@ -1,0 +1,1 @@
+from passwd_checker.checker import seclist
