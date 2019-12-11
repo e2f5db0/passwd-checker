@@ -17,7 +17,7 @@ $ pip install passwd-checker
 Check a password against SecLists
 
 ```python
-import passwd-checker.checker as checker
+import passwd_checker.checker as checker
 
 level = 1 # The level of the check can be between 1-4
 checker.seclist('password', level) # Returns True
@@ -34,6 +34,12 @@ checker.seclist('th1s-P4ssw0rd-1s-n0T-c0mm0n', level) # Returns False
 -------------------------------
 
 ## Development
+
+Run unit tests
+
+```bash
+$ python test.py
+```
 
 Build the module
 
