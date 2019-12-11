@@ -41,7 +41,7 @@ checker.seclist('th1s-P4ssw0rd-1s-n0T-c0mm0n', level) # Returns False
 Run unit tests
 
 ```bash
-$ python test.py
+$ pytest
 ```
 
 Update the *version* and *download_url* in *setup.py*
